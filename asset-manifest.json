@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/checkgit/static/css/main.073c9b0a.css",
+    "main.js": "/checkgit/static/js/main.46425f9d.js",
+    "static/js/787.564abd37.chunk.js": "/checkgit/static/js/787.564abd37.chunk.js",
+    "static/media/logo.svg": "/checkgit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/checkgit/index.html",
+    "main.073c9b0a.css.map": "/checkgit/static/css/main.073c9b0a.css.map",
+    "main.46425f9d.js.map": "/checkgit/static/js/main.46425f9d.js.map",
+    "787.564abd37.chunk.js.map": "/checkgit/static/js/787.564abd37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.46425f9d.js"
+  ]
+}
